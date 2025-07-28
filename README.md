@@ -61,4 +61,4 @@
 
 ---
 
-🔍 *Open to Full-Time, Internship, and Remote Opportunities in Software Development, Web Development, and QA*
+🔍 *Open to Full-Time and Remote Opportunities in Software Development, Web Development, and QA*
