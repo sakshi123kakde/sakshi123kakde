@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Sakshi Kakde
 
+💼 Junior Web Developer at [**&We Media**](https://andwemedia.com) (June 2025 – Present)  
 🎓 Final-year B.Tech student in Computer Science & Engineering (2022–2025)  
 💻 Passionate about Web Development, Software Engineering, and Full Stack Projects  
 🌐 Skilled in: Java, C++, Python, PHP, HTML, CSS, JavaScript, React, Angular, Node.js, SQL, MongoDB, PostgreSQL  
